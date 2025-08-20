@@ -6,6 +6,7 @@ const WhatsAppChat = () => {
 
   const whatsappNumber = "+254700123456";
   const message = "Hi! I'm interested in SIFA Estate properties. Can you provide more information?";
+  const message = "Hi! I'm interested in Azima Properties Limited properties. Can you provide more information?";
 
   const handleWhatsAppClick = () => {
     const url = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;

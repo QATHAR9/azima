@@ -6,6 +6,7 @@ const Properties = () => {
     {
       id: 1,
       title: "SIFA Estate - Kanyanjara",
+      title: "Azima Properties - Kanyanjara",
       location: "Kikuyu, Kiambu County",
       price: "KSh 2.6M",
       image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",

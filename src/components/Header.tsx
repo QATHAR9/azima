@@ -37,7 +37,7 @@ const Header = () => {
             <img 
               src="/public/image.png" 
               alt="SIFA Estate Logo" 
-              className="h-12 w-auto"
+              className="h-16 w-auto"
             />
           </div>
 

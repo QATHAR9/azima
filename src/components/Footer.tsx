@@ -11,8 +11,8 @@ const Footer = () => {
             <div className="flex items-center mb-6">
               <img 
                 src="/public/image.png" 
-                alt="SIFA Estate Logo" 
-                className="h-10 w-auto filter brightness-0 invert"
+                alt="Azima Properties Limited Logo" 
+                className="h-14 w-auto filter brightness-0 invert"
               />
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
@@ -81,7 +81,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 SIFA Estate. All rights reserved.
+            © 2024 Azima Properties Limited. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-emerald-400 text-sm transition-colors">Privacy Policy</a>
