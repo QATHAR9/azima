@@ -20,7 +20,7 @@ const Hero = () => {
             Azima Properties Limited
           </h1>
           <div className="text-2xl md:text-3xl mb-4 text-emerald-300">
-            Kanyanjara, Kikuyu
+            Rungiri, Kikuyu
           </div>
           
           {/* Price Highlight */}
