@@ -12,7 +12,7 @@ const Footer = () => {
               <img 
                 src="/public/image.png" 
                 alt="Azima Properties Limited Logo" 
-                className="h-14 w-auto filter brightness-0 invert"
+                className="h-16 w-auto filter brightness-0 invert"
               />
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
