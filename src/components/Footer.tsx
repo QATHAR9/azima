@@ -61,7 +61,7 @@ const Footer = () => {
                 <MapPin className="w-5 h-5 text-emerald-400 mt-1 flex-shrink-0" />
                 <div>
                   <p className="text-gray-300">
-                    Kanyanjara, Kikuyu<br />
+                    Rungiri, Kikuyu<br />
                     Kiambu County, Kenya
                   </p>
                 </div>
