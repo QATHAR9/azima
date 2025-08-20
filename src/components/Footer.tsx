@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-6">
               <img 
-                src="/public/image.png" 
+                src="/image.png" 
                 alt="Azima Properties Limited Logo" 
                 className="h-16 w-auto filter brightness-0 invert"
               />
